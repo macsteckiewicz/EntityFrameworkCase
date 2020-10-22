@@ -1,0 +1,9 @@
+C:\Users\macst\source\repos\EntityFrameworkCase\EntityFrameworkCase\EntityFrameworkCase.Domain\bin\Debug\netcoreapp3.1\EntityFrameworkCase.Domain.deps.json
+C:\Users\macst\source\repos\EntityFrameworkCase\EntityFrameworkCase\EntityFrameworkCase.Domain\bin\Debug\netcoreapp3.1\EntityFrameworkCase.Domain.dll
+C:\Users\macst\source\repos\EntityFrameworkCase\EntityFrameworkCase\EntityFrameworkCase.Domain\bin\Debug\netcoreapp3.1\EntityFrameworkCase.Domain.pdb
+C:\Users\macst\source\repos\EntityFrameworkCase\EntityFrameworkCase\EntityFrameworkCase.Domain\obj\Debug\netcoreapp3.1\EntityFrameworkCase.Domain.AssemblyInfoInputs.cache
+C:\Users\macst\source\repos\EntityFrameworkCase\EntityFrameworkCase\EntityFrameworkCase.Domain\obj\Debug\netcoreapp3.1\EntityFrameworkCase.Domain.AssemblyInfo.cs
+C:\Users\macst\source\repos\EntityFrameworkCase\EntityFrameworkCase\EntityFrameworkCase.Domain\obj\Debug\netcoreapp3.1\EntityFrameworkCase.Domain.csproj.CoreCompileInputs.cache
+C:\Users\macst\source\repos\EntityFrameworkCase\EntityFrameworkCase\EntityFrameworkCase.Domain\obj\Debug\netcoreapp3.1\EntityFrameworkCase.Domain.dll
+C:\Users\macst\source\repos\EntityFrameworkCase\EntityFrameworkCase\EntityFrameworkCase.Domain\obj\Debug\netcoreapp3.1\EntityFrameworkCase.Domain.pdb
+C:\Users\macst\source\repos\EntityFrameworkCase\EntityFrameworkCase\EntityFrameworkCase.Domain\obj\Debug\netcoreapp3.1\EntityFrameworkCase.Domain.csprojAssemblyReference.cache

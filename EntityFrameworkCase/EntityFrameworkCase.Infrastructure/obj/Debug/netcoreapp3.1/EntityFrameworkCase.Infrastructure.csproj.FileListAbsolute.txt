@@ -1,0 +1,15 @@
+C:\Users\macst\source\repos\EntityFrameworkCase\EntityFrameworkCase\EntityFrameworkCase.Infrastructure\bin\Debug\netcoreapp3.1\EntityFrameworkCase.Infrastructure.deps.json
+C:\Users\macst\source\repos\EntityFrameworkCase\EntityFrameworkCase\EntityFrameworkCase.Infrastructure\bin\Debug\netcoreapp3.1\EntityFrameworkCase.Infrastructure.dll
+C:\Users\macst\source\repos\EntityFrameworkCase\EntityFrameworkCase\EntityFrameworkCase.Infrastructure\obj\Debug\netcoreapp3.1\EntityFrameworkCase.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\macst\source\repos\EntityFrameworkCase\EntityFrameworkCase\EntityFrameworkCase.Infrastructure\obj\Debug\netcoreapp3.1\EntityFrameworkCase.Infrastructure.AssemblyInfo.cs
+C:\Users\macst\source\repos\EntityFrameworkCase\EntityFrameworkCase\EntityFrameworkCase.Infrastructure\bin\Debug\netcoreapp3.1\EntityFrameworkCase.Infrastructure.pdb
+C:\Users\macst\source\repos\EntityFrameworkCase\EntityFrameworkCase\EntityFrameworkCase.Infrastructure\bin\Debug\netcoreapp3.1\EntityFrameworkCase.Domain.dll
+C:\Users\macst\source\repos\EntityFrameworkCase\EntityFrameworkCase\EntityFrameworkCase.Infrastructure\bin\Debug\netcoreapp3.1\EntityFrameworkCase.Domain.pdb
+C:\Users\macst\source\repos\EntityFrameworkCase\EntityFrameworkCase\EntityFrameworkCase.Infrastructure\obj\Debug\netcoreapp3.1\EntityFrameworkCase.Infrastructure.csprojAssemblyReference.cache
+C:\Users\macst\source\repos\EntityFrameworkCase\EntityFrameworkCase\EntityFrameworkCase.Infrastructure\obj\Debug\netcoreapp3.1\EntityFrameworkCase.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\macst\source\repos\EntityFrameworkCase\EntityFrameworkCase\EntityFrameworkCase.Infrastructure\obj\Debug\netcoreapp3.1\EntityFrameworkCase.Infrastructure.csproj.CopyComplete
+C:\Users\macst\source\repos\EntityFrameworkCase\EntityFrameworkCase\EntityFrameworkCase.Infrastructure\obj\Debug\netcoreapp3.1\EntityFrameworkCase.Infrastructure.dll
+C:\Users\macst\source\repos\EntityFrameworkCase\EntityFrameworkCase\EntityFrameworkCase.Infrastructure\obj\Debug\netcoreapp3.1\EntityFrameworkCase.Infrastructure.pdb
+C:\Users\macst\source\repos\EntityFrameworkCase\EntityFrameworkCase\EntityFrameworkCase.Infrastructure\bin\Debug\netcoreapp3.1\EntityFrameworkCase.Infrastructure.runtimeconfig.json
+C:\Users\macst\source\repos\EntityFrameworkCase\EntityFrameworkCase\EntityFrameworkCase.Infrastructure\bin\Debug\netcoreapp3.1\EntityFrameworkCase.Infrastructure.runtimeconfig.dev.json
+C:\Users\macst\source\repos\EntityFrameworkCase\EntityFrameworkCase\EntityFrameworkCase.Infrastructure\obj\Debug\netcoreapp3.1\EntityFrameworkCase.Infrastructure.genruntimeconfig.cache
