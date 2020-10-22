@@ -1,6 +1,7 @@
 ﻿using EntityFrameworkCase.Domain.Interfaces.RepositoryInterfaces;
 using EntityFrameworkCase.Infrastructure.EntityFramework;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.ChangeTracking;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -54,5 +55,24 @@ namespace EntityFrameworkCase.Infrastructure.Repositories
         {
             this.RepositoryContext.Set<T>().Update(entity);
         }
+
+        //private void CheckIsTracking(EntityEntryGraphNode e)
+        //{
+        //    var entries = RepositoryContext.ChangeTracker.Entries().Select(s => new  { Name = s.Entity.GetType().Name, Id = s.Entity.GetType().GetProperty("Id").GetValue(s.Entity) }).ToList();
+
+        //    var entry = new { Name = e.Entry.Entity.GetType().Name, Id = e.Entry.Entity.GetType().GetProperty("Id").GetValue(e.Entry.Entity) };
+
+        //    if (!entries.Contains(entry))
+        //    {
+        //        if (e.Entry.IsKeySet)
+        //        {
+        //            e.Entry.State = EntityState.Unchanged;
+        //        }
+        //        else
+        //        {
+        //            e.Entry.State = EntityState.Added;
+        //        }
+        //    }
+        //}
     }
 }
